@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                bat 'pankaj jagdaley tum to great ho'
+                bat 'SYSTEMINFO'
             }
         }
     }
